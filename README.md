@@ -1,4 +1,4 @@
-## Pre-view Project
+## Pre-view Template
 
 <img width="907" height="560" alt="image" src="https://github.com/user-attachments/assets/c68f2828-b3a3-467d-bcc3-8e03bf52690a" />
 
